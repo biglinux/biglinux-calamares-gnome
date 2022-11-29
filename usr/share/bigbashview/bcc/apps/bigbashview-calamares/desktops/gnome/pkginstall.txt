@@ -1,3 +1,4 @@
+biglinux-skel-gnome
 gnome-metapackage-biglinux
 baobab
 eog
