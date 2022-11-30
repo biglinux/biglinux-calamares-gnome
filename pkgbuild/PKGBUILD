@@ -3,7 +3,7 @@
 pkgname=biglinux-calamares-gnome
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Calamares configs for BigLinux Gnome"
+pkgdesc="Calamares configs for BigLinux Community Gnome"
 arch=('any')
 url="https://github.com/biglinux/$pkgname"
 license=('GPL3')
