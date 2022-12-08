@@ -1,10 +1,6 @@
-gdm
+biglinux-skel-gnome
 gnome-metapackage-biglinux
-baobab
-eog
-brave-browser
-evince
-file-roller
+gdm
 gnome-terminal
 gnome-terminal-transparency
 gnome-backgrounds
@@ -13,7 +9,6 @@ gnome-calendar
 gnome-characters
 gnome-clocks
 gnome-color-manager
-gnome-console
 gnome-contacts
 gnome-control-center
 gnome-disk-utility
@@ -44,6 +39,11 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
+baobab
+eog
+brave-browser
+evince
+file-roller
 libpamac-flatpak-plugin
 mutter
 rygel
@@ -52,7 +52,6 @@ totem
 tracker3-miners
 xdg-user-dirs-gtk
 biglinux-neofetch
-btop
 libreoffice-fresh
 gimp
 inkscape
