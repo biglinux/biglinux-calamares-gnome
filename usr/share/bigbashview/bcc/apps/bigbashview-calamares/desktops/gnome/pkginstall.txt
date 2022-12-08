@@ -77,7 +77,7 @@ libnautilus-extension
 python-nautilus
 dconf-editor
 gnome-shell-extension-ddterm
-gnome-shell-extension-vertical-overview-git
+gnome-shell-extension-vertical-workspaces-git
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-pop-shell
 gnome-shell-extension-arcmenu
