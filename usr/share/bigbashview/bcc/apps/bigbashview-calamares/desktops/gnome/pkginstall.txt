@@ -79,6 +79,9 @@ totem
 tracker3-miners
 transmission-gtk
 otf-bebas-neue-git
+ttf-abel-regular
 ttf-economica
+ttf-fira-code
 ttf-icomoon-feather
+ttf-material-design-icons-desktop-git
 xdg-user-dirs-gtk
