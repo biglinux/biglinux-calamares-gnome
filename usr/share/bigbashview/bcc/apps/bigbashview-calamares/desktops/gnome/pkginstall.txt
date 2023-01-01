@@ -84,4 +84,7 @@ ttf-economica
 ttf-fira-code
 ttf-icomoon-feather
 ttf-material-design-icons-desktop-git
+ttf-roboto
+ttf-roboto-mono
+ttf-roboto-slab
 xdg-user-dirs-gtk
