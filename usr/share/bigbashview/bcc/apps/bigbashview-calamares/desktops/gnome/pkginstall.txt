@@ -70,6 +70,7 @@ nautilus-image-converter
 nautilus-share
 python-nautilus
 rygel
+sevi-icon-theme-blue-dark
 simple-scan
 sushi
 totem
