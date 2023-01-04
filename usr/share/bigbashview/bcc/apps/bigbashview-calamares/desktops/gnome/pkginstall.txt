@@ -59,7 +59,6 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 helvum
-jre11-openjdk
 libnautilus-extension
 libpamac-flatpak-plugin
 libreoffice-fresh
@@ -70,10 +69,8 @@ nautilus-empty-file
 nautilus-image-converter
 nautilus-share
 python-nautilus
-rustdesk-bin
 rygel
 simple-scan
-skanpage
 sushi
 totem
 tracker3-miners
