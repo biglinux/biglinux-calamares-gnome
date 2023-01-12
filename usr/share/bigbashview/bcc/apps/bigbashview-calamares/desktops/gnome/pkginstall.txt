@@ -3,6 +3,7 @@ biglinux-neofetch
 biglinux-skel-gnome
 brave-browser
 dconf-editor
+deepin-icon-theme-git
 eog
 evince
 file-roller
@@ -32,6 +33,7 @@ gnome-settings-daemon
 gnome-shell-extension-appindicator
 gnome-shell-extension-arcmenu
 gnome-shell-extension-blur-my-shell
+gnome-shell-extension-burn-my-windows
 gnome-shell-extension-coverflow-alt-tab-git
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-ddterm
@@ -70,7 +72,6 @@ nautilus-image-converter
 nautilus-share
 python-nautilus
 rygel
-sevi-icon-theme-blue-dark
 simple-scan
 sushi
 totem
