@@ -2,8 +2,8 @@ baobab
 biglinux-neofetch
 biglinux-skel-gnome
 brave-browser
+candy-icons-git
 dconf-editor
-deepin-icon-theme-git
 eog
 evince
 file-roller
