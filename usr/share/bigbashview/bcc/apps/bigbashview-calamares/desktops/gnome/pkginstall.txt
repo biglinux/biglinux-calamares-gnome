@@ -2,7 +2,6 @@ baobab
 biglinux-neofetch
 biglinux-skel-gnome
 brave-browser
-candy-icons-git
 dconf-editor
 eog
 evince
@@ -78,6 +77,8 @@ totem
 tracker3-miners
 transmission-gtk
 otf-bebas-neue-git
+papirus-folders
+papirus-icon-theme
 ttf-abel-regular
 ttf-economica
 ttf-fira-code
