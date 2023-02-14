@@ -68,7 +68,6 @@ nautilus-admin
 nautilus-empty-file
 nautilus-image-converter
 nautilus-share
-orchis-theme-git
 otf-bebas-neue-git
 papirus-folders
 papirus-icon-theme
