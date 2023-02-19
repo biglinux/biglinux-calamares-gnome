@@ -1,6 +1,8 @@
+adw-gtk3
 baobab
 biglinux-neofetch
 biglinux-skel-gnome
+biglinux-zsh-config
 brave-browser
 dconf-editor
 eog
@@ -38,6 +40,7 @@ gnome-shell-extension-dash-to-dock
 gnome-shell-extension-ddterm
 gnome-shell-extension-gsconnect
 gnome-shell-extension-just-perfection-desktop
+gnome-shell-extension-legacy-theme-auto-switcher
 gnome-shell-extension-pop-shell
 gnome-shell-extension-vertical-workspaces-git
 gnome-shell-extensions
@@ -75,6 +78,7 @@ python-nautilus
 rygel
 simple-scan
 sushi
+sync-gnome-theme-to-qt
 totem
 tracker3-miners
 transmission-gtk
