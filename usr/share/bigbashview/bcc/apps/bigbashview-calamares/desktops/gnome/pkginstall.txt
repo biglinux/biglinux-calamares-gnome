@@ -1,15 +1,12 @@
+gdm
 adw-gtk3
 baobab
-biglinux-neofetch
-biglinux-skel-gnome
-biglinux-zsh-config
 brave-browser
 dconf-editor
 eog
 evince
 file-roller
 filemanager-actions
-gdm
 gnome-backgrounds
 gnome-bluetooth-3.0
 gnome-calculator
@@ -24,7 +21,6 @@ gnome-disk-utility
 gnome-font-viewer
 gnome-keyring
 gnome-menus
-gnome-metapackage-biglinux
 gnome-music
 gnome-online-accounts
 gnome-photos
@@ -91,3 +87,7 @@ ttf-roboto
 ttf-roboto-mono
 ttf-roboto-slab
 xdg-user-dirs-gtk
+gnome-metapackage-biglinux
+biglinux-neofetch
+biglinux-skel-gnome
+biglinux-zsh-config
