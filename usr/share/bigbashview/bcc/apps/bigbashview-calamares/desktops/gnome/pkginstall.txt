@@ -3,6 +3,7 @@ baobab
 biglinux-neofetch
 biglinux-skel-gnome
 biglinux-zsh-config
+big-preload
 brave-browser
 dconf-editor
 eog
