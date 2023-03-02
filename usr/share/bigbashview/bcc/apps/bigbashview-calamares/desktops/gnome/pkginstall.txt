@@ -11,6 +11,7 @@ eog
 evince
 file-roller
 filemanager-actions
+gamemode
 gdm
 gnome-backgrounds
 gnome-bluetooth-3.0
