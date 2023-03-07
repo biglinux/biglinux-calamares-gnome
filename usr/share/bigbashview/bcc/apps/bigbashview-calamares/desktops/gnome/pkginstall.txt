@@ -10,7 +10,6 @@ dconf-editor
 eog
 evince
 file-roller
-filemanager-actions
 gamemode
 gdm
 gnome-backgrounds
@@ -81,6 +80,7 @@ python-nautilus
 rustdesk-bin
 rygel
 simple-scan
+steam
 sushi
 sync-gnome-theme-to-qt
 totem
