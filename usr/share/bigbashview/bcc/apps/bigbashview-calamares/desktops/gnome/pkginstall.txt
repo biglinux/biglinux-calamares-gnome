@@ -36,15 +36,12 @@ gnome-settings-daemon
 gnome-shell-extension-appindicator
 gnome-shell-extension-arcmenu
 gnome-shell-extension-blur-my-shell
-gnome-shell-extension-burn-my-windows
 gnome-shell-extension-coverflow-alt-tab-git
 gnome-shell-extension-dash-to-dock
-gnome-shell-extension-ddterm
 gnome-shell-extension-gsconnect
 gnome-shell-extension-legacy-theme-auto-switcher
 gnome-shell-extension-pano-git
 gnome-shell-extension-pop-shell
-gnome-shell-extension-vertical-workspaces-git
 gnome-shell-extensions
 gnome-system-monitor
 gnome-text-editor
@@ -73,7 +70,6 @@ nautilus-admin
 nautilus-empty-file
 nautilus-image-converter
 nautilus-share
-otf-bebas-neue-git
 papirus-folders
 papirus-icon-theme
 python-nautilus
@@ -86,11 +82,8 @@ sync-gnome-theme-to-qt
 totem
 tracker3-miners
 transmission-gtk
-ttf-abel-regular
-ttf-economica
 ttf-fira-code
 ttf-icomoon-feather
-ttf-material-design-icons-desktop-git
 ttf-roboto
 ttf-roboto-mono
 ttf-roboto-slab
