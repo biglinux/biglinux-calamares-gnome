@@ -10,6 +10,7 @@ dconf-editor
 eog
 evince
 file-roller
+fragments
 gamemode
 gdm
 gnome-backgrounds
@@ -34,14 +35,12 @@ gnome-remote-desktop
 gnome-session
 gnome-settings-daemon
 gnome-shell-extension-appindicator
-gnome-shell-extension-arcmenu
 gnome-shell-extension-blur-my-shell
-gnome-shell-extension-coverflow-alt-tab-git
+gnome-shell-extension-coverflow-alt-tab
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-gsconnect
 gnome-shell-extension-legacy-theme-auto-switcher
 gnome-shell-extension-pano-git
-gnome-shell-extension-pop-shell
 gnome-shell-extensions
 gnome-system-monitor
 gnome-text-editor
@@ -81,7 +80,6 @@ sushi
 sync-gnome-theme-to-qt
 totem
 tracker3-miners
-transmission-gtk
 ttf-fira-code
 ttf-icomoon-feather
 ttf-roboto
