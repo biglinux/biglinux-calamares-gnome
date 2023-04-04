@@ -14,7 +14,6 @@ file-roller
 fragments
 gamemode
 gdm
-gnome-backgrounds
 gnome-bluetooth-3.0
 gnome-calculator
 gnome-calendar
