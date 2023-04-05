@@ -36,7 +36,6 @@ gnome-session
 gnome-settings-daemon
 gnome-shell-extension-appindicator
 gnome-shell-extension-blur-my-shell
-gnome-shell-extension-coverflow-alt-tab
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-dash-to-panel
 gnome-shell-extension-gsconnect
