@@ -1,3 +1,2 @@
 system-config-printer
 system-config-printer-jobs
-hplip
