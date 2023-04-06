@@ -60,6 +60,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 helvum
+hplip
 libnautilus-extension
 libpamac-flatpak-plugin
 libreoffice-fresh
