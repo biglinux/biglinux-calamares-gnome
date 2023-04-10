@@ -87,4 +87,5 @@ ttf-icomoon-feather
 ttf-roboto
 ttf-roboto-mono
 ttf-roboto-slab
+vim
 xdg-user-dirs-gtk
