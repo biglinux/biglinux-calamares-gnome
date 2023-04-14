@@ -63,7 +63,7 @@ helvum
 hplip
 libnautilus-extension
 libpamac-flatpak-plugin
-libreoffice-fresh
+libreoffice-fresh-pt-br
 malcontent
 mutter-dynamic-buffering
 nautilus
