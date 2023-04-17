@@ -2,7 +2,7 @@ adw-gtk3
 baobab
 biglinux-driver-manager
 biglinux-neofetch
-biglinux-settings-gnome
+biglinux-settings
 biglinux-skel-gnome
 biglinux-zsh-config
 big-preload
