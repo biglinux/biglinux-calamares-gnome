@@ -1,9 +1,11 @@
 adw-gtk3
 baobab
 biglinux-driver-manager
+biglinux-nano-config
 biglinux-neofetch
 biglinux-settings-gnome
 biglinux-skel-gnome
+biglinux-vim-config
 biglinux-zsh-config
 big-preload
 brave-browser
