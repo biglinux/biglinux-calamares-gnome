@@ -1,4 +1,5 @@
 adw-gtk3
+amberol
 baobab
 biglinux-driver-manager
 biglinux-nano-config
@@ -30,7 +31,6 @@ gnome-font-viewer
 gnome-keyring
 gnome-menus
 gnome-metapackage-biglinux
-gnome-music
 gnome-online-accounts
 gnome-photos
 gnome-remote-desktop
