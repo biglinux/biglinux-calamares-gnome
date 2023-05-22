@@ -2,6 +2,7 @@ adw-gtk3
 amberol
 baobab
 biglinux-driver-manager
+biglinux-icons-material
 biglinux-nano-config
 biglinux-neofetch
 biglinux-settings-gnome
@@ -73,8 +74,6 @@ nautilus-admin
 nautilus-empty-file
 nautilus-image-converter
 nautilus-share
-papirus-folders
-papirus-icon-theme
 python-nautilus
 rustdesk-bin
 rygel
