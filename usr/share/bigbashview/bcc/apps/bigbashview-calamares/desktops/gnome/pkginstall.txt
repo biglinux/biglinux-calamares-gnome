@@ -68,7 +68,7 @@ libnautilus-extension
 libpamac-flatpak-plugin
 libreoffice-fresh-pt-br
 malcontent
-mutter-dynamic-buffering
+mutter
 nautilus
 nautilus-admin
 nautilus-empty-file
