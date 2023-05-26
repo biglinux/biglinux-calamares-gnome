@@ -16,5 +16,5 @@ export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-calamares-gnome
 
 
-DESKTOP_NAME_DESC=$"Gnome"
+DESKTOP_NAME_DESC="Gnome"
 DESKTOP_INFO_DESC=$"Um dos desktops mais utilizados no mundo Linux."
