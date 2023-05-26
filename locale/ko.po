@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Gnome"
-msgstr "격언"
-
 msgid "Um dos desktops mais utilizados no mundo Linux."
 msgstr "Linux 세계에서 가장 널리 사용되는 데스크톱 중 하나입니다."

@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Gnome"
-msgstr "Maahinen"
-
 msgid "Um dos desktops mais utilizados no mundo Linux."
 msgstr "Yksi yleisimmin käytetyistä työpöydistä Linux-maailmassa."

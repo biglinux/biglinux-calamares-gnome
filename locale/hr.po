@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Gnome"
-msgstr "Patuljak"
-
 msgid "Um dos desktops mais utilizados no mundo Linux."
 msgstr "Jedna od najčešće korištenih stolnih računala u Linux svijetu."

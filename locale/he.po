@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Gnome"
-msgstr "גמד"
-
 msgid "Um dos desktops mais utilizados no mundo Linux."
 msgstr "אחד השולחנות השולחניים הנפוצים ביותר בעולם הלינוקס."

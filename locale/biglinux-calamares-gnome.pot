@@ -14,8 +14,5 @@ msgstr  "Project-Id-Version: biglinux-calamares-gnome\n"
         "Content-Type: text/plain; charset=CHARSET\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-msgid   "Gnome"
-msgstr  ""
-
 msgid   "Um dos desktops mais utilizados no mundo Linux."
 msgstr  ""

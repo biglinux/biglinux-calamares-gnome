@@ -15,8 +15,5 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Gnome"
-msgstr "Gnome"
-
 msgid "Um dos desktops mais utilizados no mundo Linux."
 msgstr "Um dos desktops mais utilizados no mundo Linux."
